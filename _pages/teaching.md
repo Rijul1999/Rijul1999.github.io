@@ -1,6 +1,6 @@
 ---
 title: "Posts by Teaching/Pubs"
-permalink: /tags/
-layout: tags
+permalink: /teach/
+layout: teaching
 author_profile: true
 ---
