@@ -1,11 +1,9 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Current Research"
+  - title: "Research"
     url: /categories/
-  - title: "Previous Projects"
-    url: /tags/
   - title: "Teaching and Publications"
-    url: /teach/
+    url: /tags/
   - title: "About"
     url: /about/
