@@ -3,6 +3,9 @@ title: "Post: Quote"
 tags:
   - Post Formats
   - quote
+teach:
+  - comp
+  - sci
 ---
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.
