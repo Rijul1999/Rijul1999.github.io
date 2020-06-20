@@ -1,6 +1,6 @@
 ---
 title: "Posts by Teaching/Pubs"
 permalink: /teach/
-layout: teaching
+layout: teach
 author_profile: true
 ---
