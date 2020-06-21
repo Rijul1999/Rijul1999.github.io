@@ -1,5 +1,6 @@
 ---
 title: "Remote Collaboration with The Serre Lab at Brown University"
+date: 2020-06-21T15:34:30-04:00
 categories:
   - Visual Reasoning
   - Neuroscience
