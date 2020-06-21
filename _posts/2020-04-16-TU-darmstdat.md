@@ -1,6 +1,6 @@
 ---
 title: "Working as a collaborator at TU Darmstadt"
-date: 2020-04-16T15:34:30-04:00
+date: 2020-06-16T15:34:30-04:00
 category:
   - Action Segmentation
   - Current
