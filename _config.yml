@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Rijul Ganguly"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "I am a fourth year undergraduate student at BITS Pilani Goa Campus."
   links:
     - label: "Website"
